@@ -8,9 +8,9 @@
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Go Live ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://meta-muse-b46o.vercel.app",
     "newWindow": true
   }
 }
