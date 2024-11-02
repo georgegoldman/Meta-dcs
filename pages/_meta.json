@@ -1,7 +1,8 @@
 {
   "index": "OVERVIEW",
   "another": "FRONTEND",
-  "advanced": "BACKEND and SMART CONTRACT",
+  "advanced": "BACKEND",
+"smart": "SMARTCONTRACT",
 
   "about": {
     "title": "About",
